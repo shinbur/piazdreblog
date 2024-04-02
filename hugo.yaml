@@ -1,4 +1,4 @@
-baseURL: https://shinbur.github.io/piazdreblog/
+baseURL: "https://shinbur.github.io/piazdreblog/"
 languageCode: en-us
 title: Piazdre's Log
 theme: ["PaperMod"]
