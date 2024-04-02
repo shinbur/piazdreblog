@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Piazdre&#39;s Log</title>
+    <link>http://localhost:1313/piazdreblog/posts/</link>
+    <description>Recent content in Posts on Piazdre&#39;s Log</description>
+    <image>
+      <title>Piazdre&#39;s Log</title>
+      <url>http://localhost:1313/piazdreblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/piazdreblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Apr 2024 15:32:20 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/piazdreblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fleabag Review</title>
+      <link>http://localhost:1313/piazdreblog/posts/fleabag-review/</link>
+      <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
+      <guid>http://localhost:1313/piazdreblog/posts/fleabag-review/</guid>
+      <description>About the fourth wall breaking Fleabag absolutely slaying
+I&amp;rsquo;ve seen some criticism towards the frequent use of the fourth wall breaking, especially in the first season, however I find that Fleabag makes a clear point throughout the series as to how that isn&amp;rsquo;t just some narrative device that holds comedic value and nothing more. Not only does it contributes to the whole theatrical atmosphere that permeates the work (as a matter of fact, Fleabag was initially written as a 10 minutes stand-up performance and then transcribed into a theatrical monologue), it&amp;rsquo;s also incredibly fitting and functional to address the theme of life as a performative act.</description>
+    </item>
+  </channel>
+</rss>

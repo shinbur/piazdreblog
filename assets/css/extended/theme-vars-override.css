@@ -1,0 +1,36 @@
+:root {
+    --theme: #effffa;
+    --entry: #5bd1b9;
+    --primary: rgb(0, 75, 125);
+    --secondary: rgb(0, 0, 0);
+    --tertiary: rgb(0, 163, 54);
+    --content: rgb(0, 0, 0);
+    --hljs-bg: #13e6e6;
+    --code-bg: #effffa;
+    --border: #000000;
+}
+
+/*
+.dark {
+    --theme: #101c7a;
+    --entry: #202062;
+    --primary: rgba(235, 235, 255, 0.96);
+    --secondary: rgba(235, 235, 255, 0.66);
+    --tertiary: rgba(1, 1, 5, 0.32);
+    --content: rgba(235, 235, 255, 0.82);
+    --hljs-bg: #2e2e33;
+    --code-bg: #37383e;
+    --border: #446;
+}
+*/
+.dark {
+    --theme: #1f1d1d;
+    --entry: rgb(114, 1, 55);
+    --primary: rgb(0, 198, 43);
+    --secondary: rgb(255, 255, 255);
+    --tertiary: rgb(0, 114, 38);
+    --content: rgb(255, 255, 255);
+    --hljs-bg: #1c1d21;
+    --code-bg: #2b2b2b;
+    --border: #323232;
+}
