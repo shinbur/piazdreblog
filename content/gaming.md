@@ -16,7 +16,7 @@ draft: false
 ## Minecraft
 La mia esperienza con Minecraft comincia nel lontano 2011 con l'uscita della Beta 1.8, il famoso _Adventure Update_.
 ![Minecraft Beta 1.8](https://i.redd.it/gk2ocpsvbfn01.png "Minecraft Beta 1.8, tempi più buggati e semplici")
-*Minecraft Beta 1.8, tempi più buggati e semplici.*
+*Minecraft Beta 1.8, tempi più buggosi e semplici.*
 ### Forum
 Si usavano i forum, tempi bellissimi, c'era una faida incredibile tra minecraftitalia.net e minecraft-ita.net, non ricordo più in quale dei 2 stessi io e fossi diventato poi builder (incarico durato 1 settimana perché poi ho grieffato il server del forum :woops:). 
 ### Factions
