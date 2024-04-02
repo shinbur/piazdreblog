@@ -6,7 +6,7 @@ paginate: 5
 mainsections: ["posts", "papermod"]
 
 enableEmoji: true
-DefaultContentLanguage: 'it' 
+DefaultContentLanguage: 'it'
 
 enableRobotsTXT: true
 buildDrafts: false
