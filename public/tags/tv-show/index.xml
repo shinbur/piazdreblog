@@ -6,8 +6,8 @@
     <description>Recent content in Tv Show on Piazdre&#39;s Log</description>
     <image>
       <title>Piazdre&#39;s Log</title>
-      <url>http://localhost:1313/piazdreblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/piazdreblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/piazdreblog/logonew.png</url>
+      <link>http://localhost:1313/piazdreblog/logonew.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -18,8 +18,7 @@
       <link>http://localhost:1313/piazdreblog/posts/fleabag-review/</link>
       <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
       <guid>http://localhost:1313/piazdreblog/posts/fleabag-review/</guid>
-      <description>In the last few days, I finally committed to watching Fleabag, a very short comedy-drama show written (and interpreted) by the brilliant English actress and screenwriter Phoebe Waller-Bridge. The show is incredibly witty yet profound, and I encourage anyone reading this to give it a shot if they haven&amp;rsquo;t already. There&amp;rsquo;s a lot I could say about it, but I&amp;rsquo;m going to focus on one specific aspect in particular.
-About the fourth wall breaking Phoebe Waller-Bridge absolutely slaying</description>
+      <description>In the last few days, I finally committed to watching Fleabag, a very short comedy-drama show written (and interpreted) by the brilliant English actress and screenwriter Phoebe Waller-Bridge. The show is incredibly witty yet profound, and I encourage anyone reading this to give it a shot if they haven&amp;rsquo;t already. Obviously, there&amp;rsquo;s a lot I could say about it, but I&amp;rsquo;m not going to make an in-depth review. Instead, I&amp;rsquo;ll talk only about a specific aspect.</description>
     </item>
   </channel>
 </rss>

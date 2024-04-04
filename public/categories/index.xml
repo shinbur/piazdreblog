@@ -6,8 +6,8 @@
     <description>Recent content in Categories on Piazdre&#39;s Log</description>
     <image>
       <title>Piazdre&#39;s Log</title>
-      <url>http://localhost:1313/piazdreblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/piazdreblog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/piazdreblog/logonew.png</url>
+      <link>http://localhost:1313/piazdreblog/logonew.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>

@@ -54,7 +54,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod, Andrea Piazza]
   author: Andrea Piazza
   # author: ["Me", "You"] # multiple authors
-  images: ["logo.svg"]
+  images: ["logonew.png"]
   DateFormat: "2 January, 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: false
@@ -79,13 +79,13 @@ params:
   assets:
     disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "favicon.ico"
-    favicon16x16: "favicon.png"
-    # favicon32x32: "/assets/favicon-32x32.png"
+    favicon: "assets/favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
     apple_touch_icon: "apple-touch-icon.png"
-    # android_chrome192x192: "android-chrome-192x192"
-    # android_chrome512x512: "android-chrome-512x512"
-    safari_pinned_tab: "logo.svg"
+    android_chrome192x192: "android-chrome-192x192.png"
+    android_chrome512x512: "android-chrome-512x512.png"
+    # safari_pinned_tab: "logonew.png"
 
   fontFamily: "JetBrains Mono"  # non fa uncazz
   titleFontFamily: "JetBrains Mono"  # non fa uncazz
@@ -93,19 +93,21 @@ params:
 
   label:
     text: "Piazdre's Log"
-    icon: "logo.svg"
+    icon: "logonew.png"
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    enabled: true # needs to be explicitly set
+    title: "diario di andrea"
+    subtitle: "hi! :) \U0001F995 \U0001F9A6 \U0001F343"
+    imageUrl: "logonew.png"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: scemo chi legge
     buttons:
+      - name: About me
+        url: aboutme
       - name: Posts
         url: posts
       - name: Tags
@@ -161,8 +163,8 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.io/shinbur/piazdreblog/content"
-    Text: "Suggest Changes" # edit text
+    URL: "https://github.com/shinbur/piazdreblog/tree/main/content"
+    Text: "Suggerisci modifiche" # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -187,10 +189,6 @@ menu:
       name: Posts
       url: /archives/
       weight: 10
-    - identifier: search
-      name: Cerca
-      url: /search/
-      weight: 20
     #- identifier: example
     #  name: example.org
     #  url: https://example.org
@@ -198,7 +196,19 @@ menu:
     - identifier: gaming
       name: Gaming/Speedrunning
       url: /gaming/
-      weight: 11
+      weight: 12
+    - identifier: aboutme
+      name: About me
+      url: /aboutme/
+      weight: 1
+    - identifier: music
+      name: Musica
+      url: /music/
+      weight: 13
+    - identifier: search
+      name: Cerca
+      url: /search/
+      weight: 20
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
