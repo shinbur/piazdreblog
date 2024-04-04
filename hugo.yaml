@@ -50,11 +50,11 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Andrea Piazza Blog
   math: true
-  description: "non ho capito che descrizione è questa, forse google"
+  description: "Andrea Piazza's personal blog"
   keywords: [Blog, Portfolio, PaperMod, Andrea Piazza]
   author: Andrea Piazza
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["logo.svg"]
   DateFormat: "2 January, 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: false
@@ -114,12 +114,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Diario di andrea :)   \U0001F995 \U0001F9A6 \U0001F343 "
-    Content: "**ciaoo**!
-    :wave: Sono Andrea, ho 20 anni e studio fisica a Pisa. Oltre a questo, sono un po' nerdino e in base al periodo potrei stare in fissa con musica, gaming, cinema, coding o elettronica :]
+    Content: "ciaoo!
+    :wave: Sono Andrea, ho 20 anni e studio fisica a Pisa. Le robe con cui sto in fissa variano in base al periodo tra musica, gaming, cinema, coding o elettronica, quindi potete 
+    aspettarvi di trovare un argomento random tra questi :]
     \n
 
 
-    Questo sito è nato in un momento di noia e procrastinazione dallo studio, probabilmente diventerà una sorta di diario / archivio di robe tipo:
+    Questo sito è nato in un momento di particolare noia e procrastinazione dallo studio, probabilmente diventerà una sorta di diario / archivio di robe tipo:
 
     - :white_small_square: Recensioni di album/film/mostre che mi sono particolarmente piaciute o NON piaciute
     

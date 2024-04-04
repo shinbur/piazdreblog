@@ -13,6 +13,8 @@ ShowWordCount: true
 draft: false
 ---
 
+Le mie prime esperienze con i videogiochi risalgono probabilmente a quando avevo 5 anni e mi divertivo in salone con mio cugino più grande e la sua ps1, quindi è una storia di vecchia data ecco. Utilizzerò questa sezione per parlare delle esperienze videoludiche che più mi hanno segnato o che perlomeno il me di ora trova più memorabili. Più in là probabilmente aggiungerò una parentesi sul mio rapporto personale con il gaming: come concepisco i videogiochi, il rapporto dei miei genitori con le mie scelte, la sovrastimolazione sensoriale e tanti altri fattori che ho potuto analizzare solo da più grande, con una maggiore autoconsapevolezza.
+
 ## Minecraft
 La mia esperienza con Minecraft comincia nel lontano 2011 con l'uscita della Beta 1.8, il famoso _Adventure Update_.
 ![Minecraft Beta 1.8](https://i.redd.it/gk2ocpsvbfn01.png "Minecraft Beta 1.8, tempi più buggati e semplici")
@@ -38,5 +40,5 @@ Interessato a fare Coop RSG 1.16 e AA (All Advancements) con amici ma li devo co
 ![Celeste](https://gamespot.com/a/uploads/original/1556/15568848/3344817-celeste_1.jpg)
 Una delle esperienze videoludiche migliori che abbia mai provato, wow. Storia potentissima e finire il gioco ti fa sentire di avere affrontato un'avventura psicologica molto intensa dopo la quale hai acquisito confidence pensando "se ho fatto questo credendo fosse impossibile posso fare tante altre cose". letteralmente superare la montagna. 10/10
 ![20240402183034_11.jpeg](https://tinypic.host/images/2024/04/02/20240402183034_11.jpeg)
-*Stats di fine gioco :'). Ho finito tutto A,B,C sides quindi tutto. Mi mancano solo le fragole, che mi riservo per un futuro molto lontano, sono già super soddisfatto così.*
+*Stats di fine gioco :'). Ho finito A,B,C sides quindi tutto il gioco vanilla fondamentalmente. Mi mancano solo il 100% fragole, che mi riservo per un futuro molto lontano, sono già super soddisfatto così. :)*
 

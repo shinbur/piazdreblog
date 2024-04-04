@@ -1,6 +1,6 @@
 ---
 title: "Search"
-placeholder: Search demo site with full text fuzzy search ...
+placeholder: "search any post"
 layout: "search"
 draft: false
 ---
