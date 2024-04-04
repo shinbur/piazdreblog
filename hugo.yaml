@@ -102,8 +102,8 @@ params:
     title: "diario di andrea"
     subtitle: "hi! :) \U0001F995 \U0001F9A6 \U0001F343"
     imageUrl: "logonew.png"
-    imageWidth: 240
-    imageHeight: 240
+    imageWidth: 200
+    imageHeight: 200
     imageTitle: scemo chi legge
     buttons:
       - name: About me
