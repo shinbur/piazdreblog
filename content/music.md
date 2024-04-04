@@ -12,6 +12,9 @@ ShowPostNavLinks: true
 ShowWordCount: true
 draft: false
 ---
+
+Ancora da scrivere, è solo un placeholder
+
 ## Come ascoltatore
 
 ### Top100

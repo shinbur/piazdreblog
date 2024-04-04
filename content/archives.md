@@ -1,7 +1,7 @@
 ---
-title: "Archive"
+title: "Archivio dei post"
 layout: "archives"
 # url: "/archives"
-summary: "archives"
+summary: "post archive"
 draft: false
 ---

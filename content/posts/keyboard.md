@@ -1,15 +1,15 @@
 ---
 title: 'Le tastiere custom'
-date: 2024-04-02T15:32:20+02:00
-draft: true
+date: 2024-04-04T15:32:20+02:00
+draft: false
 tags: ["keyboard", "custom", "DIY", "hobby"]
 author: ["Andrea Piazza"]
 showToc: true
 UseHugoToc: true
 cover:
-    image: "https://hips.hearstapps.com/hmg-prod/images/phoebe-waller-bridge-fleabag-season-2-1551700526.jpg?crop=1.00xw:0.564xh;0,0.118xh&resize=1200:*" # image path/url
-    alt: "Promo picture of Fleabag" # alt text
-    caption: "Phoebe Waller-Bridge nella sua magnificenza che slaya" # display caption under cover
+    image: "https://ucarecdn.com/f7a2003f-a0e2-4a19-8968-d0c3f2b8ba50/-/format/auto/-/preview/3000x3000/-/quality/lighter/Zoom75_LCDScreen.png" # image path/url
+    alt: "Zoom75 promo picture" # alt text
+    caption: "Zoom75 EE - Cyber Yellow promotional picture" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: true # only hide on current single page]
 searchHidden: false
@@ -17,7 +17,26 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
-thumbnail:
-    image: "https://hips.hearstapps.com/hmg-prod/images/phoebe-waller-bridge-fleabag-season-2-1551700526.jpg?crop=1.00xw:0.564xh;0,0.118xh&resize=1200:*" # image path/url
-    alt: "Promo picture of Fleabag" # alt text
 ---
+
+Ancora da scrivere, placeholder...
+
+## La mia build
+**Epomaker SK64**:
+- Keycaps: stock della tastiera 
+- Switches: Gateron Optical Red lubed con krytox 205g0
+- Stabs: stock lubed con 105g + dielectric grease
+- Foam mod sotto il plate
+
+**Zoom75 EE Cyber Yellow**:
+- FR4 Plate
+- Backplate: PVD Gold
+- Bottom weight: Anodized Black
+- Internal weight: Aluminum
+- Foam: solo plate foam
+- Switches: WS Morandi Linear (POM, 60g bottom out)
+- Keycaps: ePBT Spectrum (adoro)
+![swich-morandi](https://coffeekeys.eu/cdn/shop/products/MorandiSwitch_Scene01_1024x1024_92af6179-8ca8-4835-ba8e-a0c81a1c6f60.png?v=1680524787)
+![sideangle](https://tinypic.host/images/2024/04/04/photo_5798596176684105935_y2.jpeg)
+![backplate](https://tinypic.host/images/2024/04/04/photo_5798596176684105937_y.jpeg)
+![closeup](https://tinypic.host/images/2024/04/04/photo_5798596176684105938_y.jpeg)
