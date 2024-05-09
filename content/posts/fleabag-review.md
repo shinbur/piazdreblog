@@ -31,6 +31,10 @@ Obviously, there's a lot I could say about it, but I'm not going to make an in-d
 ![Fleabag slaying](https://media0.giphy.com/media/35TsAZl6Eo96Sqqp5b/giphy.gif?cid=6c09b952qioanmtphl2gq2gh2lwhdgbqbyrdphjxvzsmnybx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 *Phoebe Waller-Bridge absolutely slaying*
 
+
+
+
+
 I've seen some criticism on the frequent use of the fourth wall breaking, especially in the first season, however I find that Fleabag makes a clear point throughout the series as to how that isn't just some narrative device that holds comedic value and nothing more. Not only does it contribute to the whole theatrical atmosphere that permeates the work (as a matter of fact, an early iteration of the show was initially written as a 10 minutes stand-up performance as the result of a challenge by a friend, only to be later transcribed into a theatrical monologue in 2013 and a TV show in 2016), it also is incredibly fitting and functional to address the theme of life as a performative act. 
 
 Despite all the personal informations and thoughts the main character gives us through the fourth wall breaking, we as spectators don't even know her real name. She's Fleabag, she's all the masks she's wearing and yet she's none of them. Any of us could be or could have been Fleabag. As some have rightfully noted, the second season makes a less frequent use of the fourth wall breaking, but that should be analyzed in terms of character growth rather than a stylistic reassessment, given that the counseling session scene and many interactions with the "hot priest" explicitly signal how these could very much be dissociative episodes of complete detachment from reality and the outside world, with Fleabag being present only inside her head, talking to us spectators. In fact, despite her tendency to fall into the same self-sabotage vicious cycle, we do see a significant growth from Fleabag, who chooses to stop using sex as a way to keep her mind busy and away from the aspects of her life she can't cope with, in an effort to be more present in her own mind  

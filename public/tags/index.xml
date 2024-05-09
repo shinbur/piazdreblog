@@ -11,20 +11,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2024 15:32:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 15:32:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/piazdreblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Custom</title>
       <link>http://localhost:1313/piazdreblog/tags/custom/</link>
-      <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
+      <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
       <guid>http://localhost:1313/piazdreblog/tags/custom/</guid>
       <description></description>
     </item>
     <item>
       <title>DIY</title>
       <link>http://localhost:1313/piazdreblog/tags/diy/</link>
-      <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
+      <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
       <guid>http://localhost:1313/piazdreblog/tags/diy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hobby</title>
+      <link>http://localhost:1313/piazdreblog/tags/hobby/</link>
+      <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
+      <guid>http://localhost:1313/piazdreblog/tags/hobby/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keyboard</title>
+      <link>http://localhost:1313/piazdreblog/tags/keyboard/</link>
+      <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
+      <guid>http://localhost:1313/piazdreblog/tags/keyboard/</guid>
       <description></description>
     </item>
     <item>
@@ -32,20 +46,6 @@
       <link>http://localhost:1313/piazdreblog/tags/fleabag/</link>
       <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
       <guid>http://localhost:1313/piazdreblog/tags/fleabag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hobby</title>
-      <link>http://localhost:1313/piazdreblog/tags/hobby/</link>
-      <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>http://localhost:1313/piazdreblog/tags/hobby/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Keyboard</title>
-      <link>http://localhost:1313/piazdreblog/tags/keyboard/</link>
-      <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>http://localhost:1313/piazdreblog/tags/keyboard/</guid>
       <description></description>
     </item>
     <item>

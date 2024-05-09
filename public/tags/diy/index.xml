@@ -11,14 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2024 15:32:20 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 15:32:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/piazdreblog/tags/diy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le tastiere custom</title>
       <link>http://localhost:1313/piazdreblog/posts/keyboard/</link>
-      <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
+      <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
       <guid>http://localhost:1313/piazdreblog/posts/keyboard/</guid>
-      <description></description>
+      <description>Ancora da scrivere, placeholder&amp;hellip;
+La mia build Epomaker SK64:
+Keycaps: stock della tastiera Switches: Gateron Optical Red lubed con krytox 205g0 Stabs: stock lubed con 105g + dielectric grease Foam mod sotto il plate Zoom75 EE Cyber Yellow:
+FR4 Plate Backplate: PVD Gold Bottom weight: Anodized Black Internal weight: Aluminum Foam: solo plate foam Switches: WS Morandi Linear (POM, 60g bottom out) Keycaps: ePBT Spectrum (adoro) </description>
     </item>
   </channel>
 </rss>
