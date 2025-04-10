@@ -7,7 +7,7 @@ author: ["Andrea Piazza"]
 showToc: true
 UseHugoToc: true
 cover:
-    image: "https://miro.medium.com/v2/resize:fit:600/1*_6xkvTQHwI6Jq2k3JGJiZQ.jpeg?crop=0.60xw:0.564xh;0,0.118xh&resize=600:*" # image path/url
+    image: "https://tinypic.host/images/2025/04/10/1__6xkvTQHwI6Jq2k3JGJiZQ1.jpg" # image path/url
     alt: "Album cover" # alt text
     caption: "ziopera" # display caption under cover
     relative: true # when using page bundles set this to true
@@ -21,10 +21,8 @@ thumbnail:
     image: "https://miro.medium.com/v2/resize:fit:1200/1*_6xkvTQHwI6Jq2k3JGJiZQ.jpeg" # image path/url
     alt: "Album cover" # alt text
 ---
----
-
-
-### Searching for a meaning: experiencing beauty amidst tragedy
+![gybe](https://miro.medium.com/v2/resize:fit:250/1*_6xkvTQHwI6Jq2k3JGJiZQ.jpeg)
+### Searching for a meaning: experiencing beauty amidst tragedy  
 
 I used to be a big fan of gy!be, but I was fairly young and never looked into the meanings and political subtexts of their albums. As years passed, the way I listened to their music never really changed and kind of became even more passive, like a good, emotional background music that's perfect for car trips. That's one of the reasons why finding out about this release has been such a nice surprise for me. For most people, the band's political involvement might be obvious, as well as their sympathy with the Palestinian cause, which was quite explicit in Yanqui U.X.O. (2002), but that wasn't the case for me before listening to this album and I'm really glad that it made me look deeper into their music and history.
 
