@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://localhost:1313/piazdreblog/sitemap.xml
+Sitemap: https://shinbur.github.io/piazdreblog/sitemap.xml

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Review on Piazdre&#39;s Log</title>
-    <link>http://localhost:1313/piazdreblog/tags/review/</link>
+    <link>https://shinbur.github.io/piazdreblog/tags/review/</link>
     <description>Recent content in Review on Piazdre&#39;s Log</description>
     <image>
       <title>Piazdre&#39;s Log</title>
-      <url>http://localhost:1313/piazdreblog/logonew.png</url>
-      <link>http://localhost:1313/piazdreblog/logonew.png</link>
+      <url>https://shinbur.github.io/piazdreblog/logonew.png</url>
+      <link>https://shinbur.github.io/piazdreblog/logonew.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Apr 2024 15:32:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/piazdreblog/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shinbur.github.io/piazdreblog/tags/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fleabag Review</title>
-      <link>http://localhost:1313/piazdreblog/posts/fleabag-review/</link>
+      <link>https://shinbur.github.io/piazdreblog/posts/fleabag-review/</link>
       <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>http://localhost:1313/piazdreblog/posts/fleabag-review/</guid>
+      <guid>https://shinbur.github.io/piazdreblog/posts/fleabag-review/</guid>
       <description>&lt;p&gt;In the last few days, I finally committed to watching Fleabag, a very short comedy-drama show written (and interpreted) by the brilliant English actress and screenwriter Phoebe Waller-Bridge. The show is incredibly witty yet profound, and I encourage anyone reading this to give it a shot if they haven&amp;rsquo;t already.
 Obviously, there&amp;rsquo;s a lot I could say about it, but I&amp;rsquo;m not going to make an in-depth review. Instead, I&amp;rsquo;ll talk only about a specific aspect.&lt;/p&gt;</description>
     </item>
