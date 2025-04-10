@@ -15,8 +15,8 @@ draft: false
 
 ![bannerino](https://tinypic.host/images/2024/04/04/banner.png)
 
-ciaoo!
-:sauropod: Sono Andrea, ho 21 anni e studio fisica a Trieste. Le robe con cui sto in fissa variano in base al periodo tra musica, gaming, cinema, coding o elettronica, quindi potete aspettarvi di trovare un argomento random tra questi :]
+ciaoo! :sauropod:    
+Sono Andrea, ho 21 anni e studio fisica a Trieste. Le robe con cui sto in fissa variano in base al periodo tra musica, gaming, cinema, coding o elettronica, quindi potete aspettarvi di trovare un argomento random tra questi :]
 
 Questo sito è nato in un momento di particolare noia e procrastinazione dallo studio, probabilmente diventerà una sorta di diario / archivio di robe tipo:
 

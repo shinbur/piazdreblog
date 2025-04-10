@@ -2,62 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Piazdre&#39;s Log</title>
-    <link>https://shinbur.github.io/piazdreblog/posts/</link>
+    <link>http://localhost:1313/piazdreblog/posts/</link>
     <description>Recent content in Posts on Piazdre&#39;s Log</description>
     <image>
       <title>Piazdre&#39;s Log</title>
-      <url>https://shinbur.github.io/piazdreblog/logonew.png</url>
-      <link>https://shinbur.github.io/piazdreblog/logonew.png</link>
+      <url>http://localhost:1313/piazdreblog/logonew.png</url>
+      <link>http://localhost:1313/piazdreblog/logonew.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2025 15:18:20 +0200</lastBuildDate>
-    <atom:link href="https://shinbur.github.io/piazdreblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/piazdreblog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD&#34;: a mini-review</title>
-      <link>https://shinbur.github.io/piazdreblog/posts/gybe/</link>
+      <link>http://localhost:1313/piazdreblog/posts/gybe/</link>
       <pubDate>Thu, 10 Apr 2025 15:18:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/posts/gybe/</guid>
-      <description>&lt;hr&gt;
-&lt;h3 id=&#34;searching-for-a-meaning-experiencing-beauty-amidst-tragedy&#34;&gt;Searching for a meaning: experiencing beauty amidst tragedy&lt;/h3&gt;
-&lt;p&gt;I used to be a big fan of gy!be, but I was fairly young and never looked into the meanings and political subtexts of their albums. As years passed, the way I listened to their music never really changed and kind of became even more passive, like a good, emotional background music that&amp;rsquo;s perfect for car trips. That&amp;rsquo;s one of the reasons why finding out about this release has been such a nice surprise for me. For most people, the band&amp;rsquo;s political involvement might be obvious, as well as their sympathy with the Palestinian cause, which was quite explicit in Yanqui U.X.O. (2002), but that wasn&amp;rsquo;t the case for me before listening to this album and I&amp;rsquo;m really glad that it made me look deeper into their music and history.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/piazdreblog/posts/gybe/</guid>
+      <description>Searching for a meaning: experiencing beauty amidst tragedy I used to be a big fan of gy!be, but I was fairly young and never looked into the meanings and political subtexts of their albums. As years passed, the way I listened to their music never really changed and kind of became even more passive, like a good, emotional background music that&amp;rsquo;s perfect for car trips. That&amp;rsquo;s one of the reasons why finding out about this release has been such a nice surprise for me.</description>
     </item>
     <item>
       <title>Le tastiere custom</title>
-      <link>https://shinbur.github.io/piazdreblog/posts/keyboard/</link>
+      <link>http://localhost:1313/piazdreblog/posts/keyboard/</link>
       <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/posts/keyboard/</guid>
-      <description>&lt;p&gt;Ancora da scrivere, placeholder&amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;la-mia-build&#34;&gt;La mia build&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Epomaker SK64&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Keycaps: stock della tastiera&lt;/li&gt;
-&lt;li&gt;Switches: Gateron Optical Red lubed con krytox 205g0&lt;/li&gt;
-&lt;li&gt;Stabs: stock lubed con 105g + dielectric grease&lt;/li&gt;
-&lt;li&gt;Foam mod sotto il plate&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Zoom75 EE Cyber Yellow&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;FR4 Plate&lt;/li&gt;
-&lt;li&gt;Backplate: PVD Gold&lt;/li&gt;
-&lt;li&gt;Bottom weight: Anodized Black&lt;/li&gt;
-&lt;li&gt;Internal weight: Aluminum&lt;/li&gt;
-&lt;li&gt;Foam: solo plate foam&lt;/li&gt;
-&lt;li&gt;Switches: WS Morandi Linear (POM, 60g bottom out)&lt;/li&gt;
-&lt;li&gt;Keycaps: ePBT Spectrum (adoro)
-&lt;img alt=&#34;swich-morandi&#34; loading=&#34;lazy&#34; src=&#34;https://coffeekeys.eu/cdn/shop/products/MorandiSwitch_Scene01_1024x1024_92af6179-8ca8-4835-ba8e-a0c81a1c6f60.png?v=1680524787&#34;&gt;
-&lt;img alt=&#34;sideangle&#34; loading=&#34;lazy&#34; src=&#34;https://tinypic.host/images/2024/04/04/photo_5798596176684105935_y2.jpeg&#34;&gt;
-&lt;img alt=&#34;backplate&#34; loading=&#34;lazy&#34; src=&#34;https://tinypic.host/images/2024/04/04/photo_5798596176684105937_y.jpeg&#34;&gt;
-&lt;img alt=&#34;closeup&#34; loading=&#34;lazy&#34; src=&#34;https://tinypic.host/images/2024/04/04/photo_5798596176684105938_y.jpeg&#34;&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/piazdreblog/posts/keyboard/</guid>
+      <description>Ancora da scrivere, placeholder&amp;hellip;
+La mia build Epomaker SK64:
+Keycaps: stock della tastiera Switches: Gateron Optical Red lubed con krytox 205g0 Stabs: stock lubed con 105g + dielectric grease Foam mod sotto il plate Zoom75 EE Cyber Yellow:
+FR4 Plate Backplate: PVD Gold Bottom weight: Anodized Black Internal weight: Aluminum Foam: solo plate foam Switches: WS Morandi Linear (POM, 60g bottom out) Keycaps: ePBT Spectrum (adoro) </description>
     </item>
     <item>
       <title>Fleabag Review</title>
-      <link>https://shinbur.github.io/piazdreblog/posts/fleabag-review/</link>
+      <link>http://localhost:1313/piazdreblog/posts/fleabag-review/</link>
       <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/posts/fleabag-review/</guid>
-      <description>&lt;p&gt;In the last few days, I finally committed to watching Fleabag, a very short comedy-drama show written (and interpreted) by the brilliant English actress and screenwriter Phoebe Waller-Bridge. The show is incredibly witty yet profound, and I encourage anyone reading this to give it a shot if they haven&amp;rsquo;t already.
-Obviously, there&amp;rsquo;s a lot I could say about it, but I&amp;rsquo;m not going to make an in-depth review. Instead, I&amp;rsquo;ll talk only about a specific aspect.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/piazdreblog/posts/fleabag-review/</guid>
+      <description>In the last few days, I finally committed to watching Fleabag, a very short comedy-drama show written (and interpreted) by the brilliant English actress and screenwriter Phoebe Waller-Bridge. The show is incredibly witty yet profound, and I encourage anyone reading this to give it a shot if they haven&amp;rsquo;t already. Obviously, there&amp;rsquo;s a lot I could say about it, but I&amp;rsquo;m not going to make an in-depth review. Instead, I&amp;rsquo;ll talk only about a specific aspect.</description>
     </item>
   </channel>
 </rss>

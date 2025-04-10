@@ -13,7 +13,6 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
 
 #Markup per Simboli matematici
 markup:
@@ -120,7 +119,7 @@ params:
   homeInfoParams:
     Title: "diario di andrea :)   \U0001F995 \U0001F9A6 \U0001F343 "
     Content: "ciaoo!
-    :wave: Sono Andrea, ho 20 anni e studio fisica a Pisa. Le robe con cui sto in fissa variano in base al periodo tra musica, gaming, cinema, coding o elettronica, quindi potete 
+    :wave: Sono Andrea, ho 21 anni e studio fisica a Trieste. Le robe con cui sto in fissa variano in base al periodo tra musica, gaming, cinema, coding o elettronica, quindi potete 
     aspettarvi di trovare un argomento random tra questi :]
     \n
 
@@ -152,13 +151,6 @@ params:
     - name: github
       url: "https://github.com/shinbur"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -222,9 +214,3 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-
-services:
-  instagram:
-    disableInlineCSS: true
-  twitter:
-    disableInlineCSS: true
