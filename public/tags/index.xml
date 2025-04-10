@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Piazdre&#39;s Log</title>
-    <link>https://shinbur.github.io/piazdreblog/tags/</link>
+    <link>http://localhost:1313/piazdreblog/tags/</link>
     <description>Recent content in Tags on Piazdre&#39;s Log</description>
     <image>
       <title>Piazdre&#39;s Log</title>
-      <url>https://shinbur.github.io/piazdreblog/logonew.png</url>
-      <link>https://shinbur.github.io/piazdreblog/logonew.png</link>
+      <url>http://localhost:1313/piazdreblog/logonew.png</url>
+      <link>http://localhost:1313/piazdreblog/logonew.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2025 15:18:20 +0200</lastBuildDate>
-    <atom:link href="https://shinbur.github.io/piazdreblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/piazdreblog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gy!be</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/gybe/</link>
+      <link>http://localhost:1313/piazdreblog/tags/gybe/</link>
       <pubDate>Thu, 10 Apr 2025 15:18:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/gybe/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/gybe/</guid>
       <description></description>
     </item>
     <item>
       <title>Music</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/music/</link>
+      <link>http://localhost:1313/piazdreblog/tags/music/</link>
       <pubDate>Thu, 10 Apr 2025 15:18:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/music/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Post-Rock</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/post-rock/</link>
+      <link>http://localhost:1313/piazdreblog/tags/post-rock/</link>
       <pubDate>Thu, 10 Apr 2025 15:18:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/post-rock/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/post-rock/</guid>
       <description></description>
     </item>
     <item>
       <title>Custom</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/custom/</link>
+      <link>http://localhost:1313/piazdreblog/tags/custom/</link>
       <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/custom/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/custom/</guid>
       <description></description>
     </item>
     <item>
       <title>DIY</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/diy/</link>
+      <link>http://localhost:1313/piazdreblog/tags/diy/</link>
       <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/diy/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/diy/</guid>
       <description></description>
     </item>
     <item>
       <title>Hobby</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/hobby/</link>
+      <link>http://localhost:1313/piazdreblog/tags/hobby/</link>
       <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/hobby/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/hobby/</guid>
       <description></description>
     </item>
     <item>
       <title>Keyboard</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/keyboard/</link>
+      <link>http://localhost:1313/piazdreblog/tags/keyboard/</link>
       <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/keyboard/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/keyboard/</guid>
       <description></description>
     </item>
     <item>
       <title>Fleabag</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/fleabag/</link>
+      <link>http://localhost:1313/piazdreblog/tags/fleabag/</link>
       <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/fleabag/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/fleabag/</guid>
       <description></description>
     </item>
     <item>
       <title>Review</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/review/</link>
+      <link>http://localhost:1313/piazdreblog/tags/review/</link>
       <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/review/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/review/</guid>
       <description></description>
     </item>
     <item>
       <title>Tv Show</title>
-      <link>https://shinbur.github.io/piazdreblog/tags/tv-show/</link>
+      <link>http://localhost:1313/piazdreblog/tags/tv-show/</link>
       <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>https://shinbur.github.io/piazdreblog/tags/tv-show/</guid>
+      <guid>http://localhost:1313/piazdreblog/tags/tv-show/</guid>
       <description></description>
     </item>
   </channel>
