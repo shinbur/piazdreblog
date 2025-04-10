@@ -9,7 +9,7 @@
       <url>http://localhost:1313/piazdreblog/logonew.png</url>
       <link>http://localhost:1313/piazdreblog/logonew.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/piazdreblog/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

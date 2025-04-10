@@ -9,7 +9,7 @@
       <url>http://localhost:1313/piazdreblog/logonew.png</url>
       <link>http://localhost:1313/piazdreblog/logonew.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Apr 2024 15:32:20 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/piazdreblog/tags/keyboard/index.xml" rel="self" type="application/rss+xml" />
@@ -18,10 +18,29 @@
       <link>http://localhost:1313/piazdreblog/posts/keyboard/</link>
       <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
       <guid>http://localhost:1313/piazdreblog/posts/keyboard/</guid>
-      <description>Ancora da scrivere, placeholder&amp;hellip;
-La mia build Epomaker SK64:
-Keycaps: stock della tastiera Switches: Gateron Optical Red lubed con krytox 205g0 Stabs: stock lubed con 105g + dielectric grease Foam mod sotto il plate Zoom75 EE Cyber Yellow:
-FR4 Plate Backplate: PVD Gold Bottom weight: Anodized Black Internal weight: Aluminum Foam: solo plate foam Switches: WS Morandi Linear (POM, 60g bottom out) Keycaps: ePBT Spectrum (adoro) </description>
+      <description>&lt;p&gt;Ancora da scrivere, placeholder&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;la-mia-build&#34;&gt;La mia build&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Epomaker SK64&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keycaps: stock della tastiera&lt;/li&gt;
+&lt;li&gt;Switches: Gateron Optical Red lubed con krytox 205g0&lt;/li&gt;
+&lt;li&gt;Stabs: stock lubed con 105g + dielectric grease&lt;/li&gt;
+&lt;li&gt;Foam mod sotto il plate&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Zoom75 EE Cyber Yellow&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;FR4 Plate&lt;/li&gt;
+&lt;li&gt;Backplate: PVD Gold&lt;/li&gt;
+&lt;li&gt;Bottom weight: Anodized Black&lt;/li&gt;
+&lt;li&gt;Internal weight: Aluminum&lt;/li&gt;
+&lt;li&gt;Foam: solo plate foam&lt;/li&gt;
+&lt;li&gt;Switches: WS Morandi Linear (POM, 60g bottom out)&lt;/li&gt;
+&lt;li&gt;Keycaps: ePBT Spectrum (adoro)
+&lt;img alt=&#34;swich-morandi&#34; loading=&#34;lazy&#34; src=&#34;https://coffeekeys.eu/cdn/shop/products/MorandiSwitch_Scene01_1024x1024_92af6179-8ca8-4835-ba8e-a0c81a1c6f60.png?v=1680524787&#34;&gt;
+&lt;img alt=&#34;sideangle&#34; loading=&#34;lazy&#34; src=&#34;https://tinypic.host/images/2024/04/04/photo_5798596176684105935_y2.jpeg&#34;&gt;
+&lt;img alt=&#34;backplate&#34; loading=&#34;lazy&#34; src=&#34;https://tinypic.host/images/2024/04/04/photo_5798596176684105937_y.jpeg&#34;&gt;
+&lt;img alt=&#34;closeup&#34; loading=&#34;lazy&#34; src=&#34;https://tinypic.host/images/2024/04/04/photo_5798596176684105938_y.jpeg&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
