@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Custom on Piazdre&#39;s Log</title>
-    <link>http://localhost:1313/piazdreblog/tags/custom/</link>
+    <link>https://shinbur.github.io/piazdreblog/tags/custom/</link>
     <description>Recent content in Custom on Piazdre&#39;s Log</description>
     <image>
       <title>Piazdre&#39;s Log</title>
-      <url>http://localhost:1313/piazdreblog/logonew.png</url>
-      <link>http://localhost:1313/piazdreblog/logonew.png</link>
+      <url>https://shinbur.github.io/piazdreblog/logonew.png</url>
+      <link>https://shinbur.github.io/piazdreblog/logonew.png</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Apr 2024 15:32:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/piazdreblog/tags/custom/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shinbur.github.io/piazdreblog/tags/custom/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le tastiere custom</title>
-      <link>http://localhost:1313/piazdreblog/posts/keyboard/</link>
+      <link>https://shinbur.github.io/piazdreblog/posts/keyboard/</link>
       <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>http://localhost:1313/piazdreblog/posts/keyboard/</guid>
+      <guid>https://shinbur.github.io/piazdreblog/posts/keyboard/</guid>
       <description>&lt;p&gt;Ancora da scrivere, placeholder&amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;la-mia-build&#34;&gt;La mia build&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Epomaker SK64&lt;/strong&gt;:&lt;/p&gt;

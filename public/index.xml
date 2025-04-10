@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Piazdre&#39;s Log</title>
-    <link>http://localhost:1313/piazdreblog/</link>
+    <link>https://shinbur.github.io/piazdreblog/</link>
     <description>Recent content on Piazdre&#39;s Log</description>
     <image>
       <title>Piazdre&#39;s Log</title>
-      <url>http://localhost:1313/piazdreblog/logonew.png</url>
-      <link>http://localhost:1313/piazdreblog/logonew.png</link>
+      <url>https://shinbur.github.io/piazdreblog/logonew.png</url>
+      <link>https://shinbur.github.io/piazdreblog/logonew.png</link>
     </image>
     <generator>Hugo -- 0.138.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Apr 2025 15:18:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/piazdreblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://shinbur.github.io/piazdreblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD&#34;: a mini-review</title>
-      <link>http://localhost:1313/piazdreblog/posts/gybe/</link>
+      <link>https://shinbur.github.io/piazdreblog/posts/gybe/</link>
       <pubDate>Thu, 10 Apr 2025 15:18:20 +0200</pubDate>
-      <guid>http://localhost:1313/piazdreblog/posts/gybe/</guid>
+      <guid>https://shinbur.github.io/piazdreblog/posts/gybe/</guid>
       <description>&lt;hr&gt;
 &lt;h3 id=&#34;searching-for-a-meaning-experiencing-beauty-amidst-tragedy&#34;&gt;Searching for a meaning: experiencing beauty amidst tragedy&lt;/h3&gt;
 &lt;p&gt;I used to be a big fan of gy!be, but I was fairly young and never looked into the meanings and political subtexts of their albums. As years passed, the way I listened to their music never really changed and kind of became even more passive, like a good, emotional background music that&amp;rsquo;s perfect for car trips. That&amp;rsquo;s one of the reasons why finding out about this release has been such a nice surprise for me. For most people, the band&amp;rsquo;s political involvement might be obvious, as well as their sympathy with the Palestinian cause, which was quite explicit in Yanqui U.X.O. (2002), but that wasn&amp;rsquo;t the case for me before listening to this album and I&amp;rsquo;m really glad that it made me look deeper into their music and history.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Le tastiere custom</title>
-      <link>http://localhost:1313/piazdreblog/posts/keyboard/</link>
+      <link>https://shinbur.github.io/piazdreblog/posts/keyboard/</link>
       <pubDate>Thu, 04 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>http://localhost:1313/piazdreblog/posts/keyboard/</guid>
+      <guid>https://shinbur.github.io/piazdreblog/posts/keyboard/</guid>
       <description>&lt;p&gt;Ancora da scrivere, placeholder&amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;la-mia-build&#34;&gt;La mia build&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Epomaker SK64&lt;/strong&gt;:&lt;/p&gt;
@@ -53,31 +53,31 @@
     </item>
     <item>
       <title>Fleabag Review</title>
-      <link>http://localhost:1313/piazdreblog/posts/fleabag-review/</link>
+      <link>https://shinbur.github.io/piazdreblog/posts/fleabag-review/</link>
       <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>http://localhost:1313/piazdreblog/posts/fleabag-review/</guid>
+      <guid>https://shinbur.github.io/piazdreblog/posts/fleabag-review/</guid>
       <description>&lt;p&gt;In the last few days, I finally committed to watching Fleabag, a very short comedy-drama show written (and interpreted) by the brilliant English actress and screenwriter Phoebe Waller-Bridge. The show is incredibly witty yet profound, and I encourage anyone reading this to give it a shot if they haven&amp;rsquo;t already.
 Obviously, there&amp;rsquo;s a lot I could say about it, but I&amp;rsquo;m not going to make an in-depth review. Instead, I&amp;rsquo;ll talk only about a specific aspect.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/piazdreblog/aboutme/</link>
+      <link>https://shinbur.github.io/piazdreblog/aboutme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/piazdreblog/aboutme/</guid>
+      <guid>https://shinbur.github.io/piazdreblog/aboutme/</guid>
       <description>indovinachi?</description>
     </item>
     <item>
       <title>Gaming</title>
-      <link>http://localhost:1313/piazdreblog/gaming/</link>
+      <link>https://shinbur.github.io/piazdreblog/gaming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/piazdreblog/gaming/</guid>
+      <guid>https://shinbur.github.io/piazdreblog/gaming/</guid>
       <description>la mia esperienza col gaming</description>
     </item>
     <item>
       <title>Musica</title>
-      <link>http://localhost:1313/piazdreblog/music/</link>
+      <link>https://shinbur.github.io/piazdreblog/music/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/piazdreblog/music/</guid>
+      <guid>https://shinbur.github.io/piazdreblog/music/</guid>
       <description>la mia esperienza con la musica</description>
     </item>
   </channel>
