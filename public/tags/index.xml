@@ -35,6 +35,48 @@
       <description></description>
     </item>
     <item>
+      <title>Anime</title>
+      <link>http://localhost:1313/piazdreblog/tags/anime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/piazdreblog/tags/anime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Colors</title>
+      <link>http://localhost:1313/piazdreblog/tags/colors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/piazdreblog/tags/colors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movie</title>
+      <link>http://localhost:1313/piazdreblog/tags/movie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/piazdreblog/tags/movie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Review</title>
+      <link>http://localhost:1313/piazdreblog/tags/review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/piazdreblog/tags/review/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Within</title>
+      <link>http://localhost:1313/piazdreblog/tags/within/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/piazdreblog/tags/within/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yamada</title>
+      <link>http://localhost:1313/piazdreblog/tags/yamada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/piazdreblog/tags/yamada/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Custom</title>
       <link>http://localhost:1313/piazdreblog/tags/custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -67,13 +109,6 @@
       <link>http://localhost:1313/piazdreblog/tags/fleabag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/piazdreblog/tags/fleabag/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Review</title>
-      <link>http://localhost:1313/piazdreblog/tags/review/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/piazdreblog/tags/review/</guid>
       <description></description>
     </item>
     <item>

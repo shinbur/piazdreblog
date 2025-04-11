@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Review on Piazdre&#39;s Log</title>
-    <link>http://localhost:1313/piazdreblog/tags/review/</link>
-    <description>Recent content in Review on Piazdre&#39;s Log</description>
+    <title>Colors on Piazdre&#39;s Log</title>
+    <link>http://localhost:1313/piazdreblog/tags/colors/</link>
+    <description>Recent content in Colors on Piazdre&#39;s Log</description>
     <image>
       <title>Piazdre&#39;s Log</title>
       <url>http://localhost:1313/piazdreblog/logonew.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.127.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Feb 2025 23:32:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/piazdreblog/tags/review/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/piazdreblog/tags/colors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>    I colori dell&#39;anima: un po&#39; una delusione</title>
       <link>http://localhost:1313/piazdreblog/posts/colorswithin/</link>
@@ -20,13 +20,6 @@
       <guid>http://localhost:1313/piazdreblog/posts/colorswithin/</guid>
       <description>è stato&amp;hellip; okay?
 Visivamente un gioiello di una delicatezza unica, per il resto abbastanza underwhelming. Per essere un film che fa della musica e dei colori la sua cifra, avrebbero potuto fare molto di più: più dinamico e simbolico nell&amp;rsquo;uso dei colori, un&amp;rsquo;attenzione maggiore alla musica (processo creativo meno romanticizzato forse chiedo troppo, ma per quello è in buona compagnia), ironicamente koe no katachi - capolavoro di yamada che forse mi ha alzato troppo le aspettative - faceva scelte molto più coraggiose e accurate nelle colonne sonore, dedicandogli in qualche modo anche più spazio con scene più significative e non solo accavallate nel finale.</description>
-    </item>
-    <item>
-      <title>Fleabag Review</title>
-      <link>http://localhost:1313/piazdreblog/posts/fleabag-review/</link>
-      <pubDate>Tue, 02 Apr 2024 15:32:20 +0200</pubDate>
-      <guid>http://localhost:1313/piazdreblog/posts/fleabag-review/</guid>
-      <description>In the last few days, I finally committed to watching Fleabag, a very short comedy-drama show written (and interpreted) by the brilliant English actress and screenwriter Phoebe Waller-Bridge. The show is incredibly witty yet profound, and I encourage anyone reading this to give it a shot if they haven&amp;rsquo;t already. Obviously, there&amp;rsquo;s a lot I could say about it, but I&amp;rsquo;m not going to make an in-depth review. Instead, I&amp;rsquo;ll talk only about a specific aspect.</description>
     </item>
   </channel>
 </rss>

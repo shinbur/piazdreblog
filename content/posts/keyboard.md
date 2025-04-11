@@ -19,7 +19,9 @@ ShowPostNavLinks: true
 ShowWordCount: true
 ---
 
-Ancora da scrivere, placeholder...
+Le tastiere meccaniche penso siano l'hobby che ho più difficoltà a spiegare e far immaginare alle persone come cosa interessante: la maggior parte delle persone che hanno un qualche tipo di familiarità, attraverso instagram o esperienze personali con l'hobby, tipicamente la hanno attraverso il gaming o i video ASMR. Chiaramente non è un'idea intrinsecamente sbagliata, ma capisco come possa non risultare troppo interessante in quest'ottica, anche se è estremamente personale
+
+da finire...
 
 ## La mia build
 **Epomaker SK64**:
